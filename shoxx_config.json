@@ -1,0 +1,9 @@
+{
+  "active_model": "qwen2.5-coder:latest",
+  "workspace": "D:\\SHOXX_CLAUDE",
+  "active_project_name": "SHOXX Haupt-Workspace",
+  "mmp_preset": "All-in-One Senior MMP Suite (AppsFlyer + Singular + Adjust)",
+  "launch_mode": "env_bridge",
+  "ollama_host": "http://localhost:11434",
+  "ollama_ctx": 32768
+}
